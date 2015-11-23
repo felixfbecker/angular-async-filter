@@ -1,0 +1,20 @@
+{
+  "name": "angular-async-filter",
+  "version": "1.0.0",
+  "description": "Angular2's async pipe for Angular 1. Promise in controller, value in view.",
+  "main": "angular-async-filter",
+  "keywords": [
+    "angular",
+    "async",
+    "promise",
+    "unwrap",
+    "filter",
+    "pipe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixfbecker/angular-async-filter.git"
+  },
+  "author": "Felix Becker <felix.b@outlook.com>",
+  "license": "ISC"
+}
