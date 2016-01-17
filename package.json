@@ -1,6 +1,6 @@
 {
   "name": "angular-async-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular2's async pipe for Angular 1. Promise in controller, value in view.",
   "main": "angular-async-filter",
   "peerDependencies": {
