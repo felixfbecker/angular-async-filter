@@ -31,7 +31,7 @@ angular.module('myApp', ['async'])
 
 ## States
 <table>
-  <tr><td>pending</td><td>`undefined`</td></tr>
+  <tr><td>pending</td><td><code>undefined</code></td></tr>
   <tr><td>fulfilled</td><td>resolved value</td></tr>
-  <tr><td>rejected</td><td>`undefined`</td></tr>
+  <tr><td>rejected</td><td><code>undefined</code></td></tr>
 </table>
