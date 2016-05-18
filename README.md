@@ -1,3 +1,11 @@
+
+[![Version](https://img.shields.io/npm/v/angular-async-filter.svg?maxAge=2592000)](https://www.npmjs.com/package/angular-async-filter)
+[![Downloads](https://img.shields.io/npm/dt/angular-async-filter.svg?maxAge=2592000)](https://www.npmjs.com/package/angular-async-filter)
+[![Build Status](https://travis-ci.org/felixfbecker/angular-async-filter.svg?branch=master)](https://travis-ci.org/felixfbecker/angular-async-filter)
+![Dependencies](https://david-dm.org/felixfbecker/angular-async-filter.svg)
+[![License](https://img.shields.io/npm/l/angular-async-filter.svg?maxAge=2592000)](https://github.com/felixfbecker/angular-async-filter/blob/master/LICENSE.md)
+
+
 In TodoMVC examples all data may be local, but in _real_ applications data is often fetched async from a remote.
 Before Angular 1.3, Angular _implicitly_ unwrapped any promise in the scope to its resolved value.
 But in 1.3, it was removed.
