@@ -19,6 +19,8 @@ WeakMaps are supported in all modern browsers. If you're targeting older browser
 Supports browserify/webpack.
 
 ## Example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/felixfbecker/angular-async-filter.svg)](https://greenkeeper.io/)
 ```js
 angular.module('myApp', ['async'])
   .controller('TestController', function ($http) {
